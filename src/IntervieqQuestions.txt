@@ -1,0 +1,31 @@
+TCS interview Questions
+1) Given an array of integers, find the longest increasubg subsequence. How would you optimize it?
+2) Describe a scenario where you'd use a hash table over a balanced binary tre
+
+How does polymorphism benifit code reusability?
+What is the diff between composition & inheritance ? can you provide example?
+
+Explain ACID properties. why are they important in a trasactional system?
+Describe normalization & denormilazation. when would you choose one over the other?
+
+How have you used the singleton design pattern in your previous projects, & what are its drawbacks?
+Can you explain the dirrence between MVC & MVVM design patterns?
+
+can you design a scalable & fault- tolerant microservices-based system?
+What stratgies would you use to ensure data consistancy across distributed system?
+
+Describe the most challenging bug you'have encountered in your career.
+How did you debug & resolve it? How do you prioritize techinical debt in a mature product?
+
+How do you identify and fix performance bottleneck in a web application?
+what are some techiniques you have used to optimize database query performance?
+
+
+How does a spring mvc & spring boot diff? How does spring security work?
+How do you ensure a web application is responsive & compatible across different browsers?
+
+How do you handle database migrations in a CI/CD pipeline?
+Describe a situation where you had to troubleshoot a failed deployment. how did you approach it?
+
+Howe do you ensure your application is safe from sql injection attacks?
+Explain the concept of OAuth 2.0 and its role in API security?
